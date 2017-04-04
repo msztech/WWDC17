@@ -8,7 +8,7 @@ The playground will be uploaded soon.
 All made by @ShunzheMa. A young iOS developer and a high school student.
 Twitter: @shunzhema
 
-![Our Universe ss1](screenshot1.png)
-![Our Universe ss2](screenshot2.png)
-![Our Universe ss3](screenshot3.png)
-![Our Universe ss4](screenshot4.png)
+![Our Universe ss1](screenshot1.PNG)
+![Our Universe ss2](screenshot2.PNG)
+![Our Universe ss3](screenshot3.PNG)
+![Our Universe ss4](screenshot4.PNG)
