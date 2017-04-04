@@ -2,6 +2,8 @@
 
 ![Our Universe Logo](Pictures/logo.png)
 
+Playground Book Demo Video is [here](https://www.youtube.com/watch?v=wpSRApiUfEI&index=26&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)
+
 This is the playground submission for WWDC 2017 Scholarship by Shunzhe Ma. Our Universe is aimed to help kids learn basic knowledge about our solar system and have great fun exploring it with their friends! This playground uses Scenekit, UI Kit, Playground Support and some other features.
 The playground will be uploaded soon.
 
